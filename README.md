@@ -37,3 +37,5 @@ Bu proje, karaciğer kanseri hastalarında ameliyat sonrası nüks riskini tahmi
 pip install pandas numpy scikit-learn tensorflow
 ```
 
+## Bu çalışma sanal bir veri seti üzerinden yapılmıştır. Hasta gizliliği açısından orijinal veri setine yer verilmedi. Sonuç ve model başarısı paylaşılacaktır.
+
